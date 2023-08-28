@@ -1,1 +1,8 @@
 Hello my name is Will
+
+git add .
+git commit -m "asdasd"
+git pull
+git push
+git stash
+git stash pop
